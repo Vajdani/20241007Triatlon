@@ -1,0 +1,14 @@
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\bin\Debug\net8.0\vajda_daniel_triatlon.exe
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\bin\Debug\net8.0\vajda_daniel_triatlon.deps.json
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\bin\Debug\net8.0\vajda_daniel_triatlon.runtimeconfig.json
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\bin\Debug\net8.0\vajda_daniel_triatlon.dll
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\bin\Debug\net8.0\vajda_daniel_triatlon.pdb
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\obj\Debug\net8.0\vajda_daniel_triatlon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\obj\Debug\net8.0\vajda_daniel_triatlon.AssemblyInfoInputs.cache
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\obj\Debug\net8.0\vajda_daniel_triatlon.AssemblyInfo.cs
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\obj\Debug\net8.0\vajda_daniel_triatlon.csproj.CoreCompileInputs.cache
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\obj\Debug\net8.0\vajda_daniel_triatlon.dll
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\obj\Debug\net8.0\refint\vajda_daniel_triatlon.dll
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\obj\Debug\net8.0\vajda_daniel_triatlon.pdb
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\obj\Debug\net8.0\vajda_daniel_triatlon.genruntimeconfig.cache
+C:\Users\vajda.daniel\Desktop\vajda_daniel_triatlon\vajda_daniel_triatlon\obj\Debug\net8.0\ref\vajda_daniel_triatlon.dll
